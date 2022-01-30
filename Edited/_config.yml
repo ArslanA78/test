@@ -1,0 +1,13 @@
+title: Boat Corporation
+description: Welcome to our Boat Corporation Website!
+site_title: 'Boat Corporation'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
