@@ -85,16 +85,9 @@ let project_mapper = project => {
         
                     <article class="card__article">
                         <h2><a href="${project.link}">${project.title}</a></h2>
-        
-                        <p class="paragraph-text-normal">${project.description} ${project.demo ? `<a href="${project.demo}">Demo</a>` : ''}</p>
-                    </article>
+                            </article>
 
-                                
-                    <div class="card__meta">
-                        ${project.technologies.map(tech =>
-                            `<span class="project-technology paragraph-text-normal">${tech}</span>`
-                        ).join('')}
-                    </div>
+                              
 
                 </div>
             </div>
