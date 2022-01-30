@@ -24,7 +24,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/msp.png',
-            link: 'https://github.com/boatcorporation/boatgame,
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Method Selection and Planning',
             categories: ['featured']
         },
