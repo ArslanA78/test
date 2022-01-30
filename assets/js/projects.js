@@ -14,43 +14,30 @@ let render_projects = (slug) => {
             image: 'assets/images/Mporter.jpg',
             link: 'https://github.com/abhn/Mporter',
             title: 'Requirements',
-            description: "This is our requirements document",
             categories: ['featured']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+            title: 'Architecture',
             categories: ['featured']
         },
         {
             image: 'assets/images/collage.jpg',
             link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
-            demo: false,
-            technologies: ['Android', 'OpenCV'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
+            title: 'Method Selection and Planning',
             categories: ['featured']
         },
         {
             image: 'assets/images/mpw.jpg',
             link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+            title: 'Risk Assessment and Mitigation',
             categories: ['featured']
         },
         {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
-            title: 'Social Share Count',
-            demo: false,
-            technologies: ['Python'],
-            description: "Ever wondered how many times a URL has been shared on popular social networks?",
+            title: 'Implementation',
             categories: ['featured']
         },
   
@@ -86,9 +73,6 @@ let project_mapper = project => {
                     <article class="card__article">
                         <h2><a href="${project.link}">${project.title}</a></h2>
                             </article>
-
-                              
-
                 </div>
             </div>
         </div>
