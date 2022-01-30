@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python'],
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
-            categories: ['native']
+            categories: ['featured', 'native']
         },
         {
             image: 'assets/images/data-destroyer.png',
