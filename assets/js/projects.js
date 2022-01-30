@@ -31,7 +31,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/ram.png',
             link: 'https://github.com/boatcorporation/boatgame',
-            title: 'Risk Assessment and Mitigation',
+            title: 'Risk Assessmentttttttt and Mitigation',
             categories: ['featured']
         },
         {
