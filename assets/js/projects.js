@@ -12,31 +12,31 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/req.png',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Requirements',
             categories: ['featured']
         },
         {
             image: 'assets/images/arc.png',
-            link: 'https://github.com/abhn/Wall-E',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Architecture',
             categories: ['featured']
         },
         {
             image: 'assets/images/msp.png',
-            link: 'https://github.com/abhn/Marvel',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Method selection and planning',
             categories: ['featured']
         },
         {
             image: 'assets/images/ram.png',
-            link: 'https://github.com/abhn/mpw',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Risk assessment and mitigation',
             categories: ['featured']
         },
         {
             image: 'assets/images/imp.png',
-            link: 'https://github.com/abhn/Social-Share-Counts',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Implementation',
             categories: ['featured']
         },
