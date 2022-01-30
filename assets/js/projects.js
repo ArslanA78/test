@@ -11,32 +11,32 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/req.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            image: 'assets/images/req.png',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Requirements',
             categories: ['featured']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
+            image: 'assets/images/arc.png',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Architecture',
             categories: ['featured']
         },
         {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Method Selection and Planning',
+            image: 'assets/images/msp.png',
+            link: 'https://github.com/boatcorporation/boatgame',
+            title: 'Method selection and planning',
             categories: ['featured']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Risk Assessment and Mitigation',
+            image: 'assets/images/ram.png',
+            link: 'https://github.com/boatcorporation/boatgame',
+            title: 'Risk assessment and mitigation',
             categories: ['featured']
         },
         {
-            image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
+            image: 'assets/images/imp.png',
+            link: 'https://github.com/boatcorporation/boatgame',
             title: 'Implementation',
             categories: ['featured']
         },
