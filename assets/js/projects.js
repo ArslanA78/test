@@ -13,31 +13,31 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/req.png',
             link: 'https://github.com/abhn/Mporter',
-            title: 'Mporrrrrrrter',
+            title: 'Requirements',
             categories: ['featured']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/arc.png',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
+            title: 'Architecture',
             categories: ['featured']
         },
         {
-            image: 'assets/images/collage.jpg',
+            image: 'assets/images/msp.png',
             link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
+            title: 'Method selection and planning',
             categories: ['featured']
         },
         {
-            image: 'assets/images/mpw.jpg',
+            image: 'assets/images/ram.png',
             link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
+            title: 'Risk assessment and mitigation',
             categories: ['featured']
         },
         {
-            image: 'assets/images/social-share-count.jpeg',
+            image: 'assets/images/imp.png',
             link: 'https://github.com/abhn/Social-Share-Counts',
-            title: 'Social Share Count',
+            title: 'Implementation',
             categories: ['featured']
         },
   
