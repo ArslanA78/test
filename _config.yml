@@ -7,4 +7,4 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # absolute or relative
-profile_picture: assets/images/boatgame.png
+profile_picture: assets/images/boat.png
