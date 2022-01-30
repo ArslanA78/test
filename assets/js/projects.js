@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/req.png',
+            image: 'assets/images/req.jpg',
             link: 'https://github.com/abhn/Mporter',
             title: 'Requirements',
             categories: ['featured']
