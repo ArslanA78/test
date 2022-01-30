@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: '',
             link: 'https://github.com/abhn/Mporter',
             title: 'Mporrrrrrrter',
             demo: 'https://mporter.co',
@@ -22,7 +22,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
+            title: 'WallE',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Semantic UI', 'Jekyll'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
